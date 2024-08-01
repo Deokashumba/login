@@ -1,0 +1,24 @@
+.error-text {
+    color: #b00020;
+  }
+  
+  /* On error color */
+  .error-text-on {
+    color: #ffffff;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  /* Error container background */
+  .error-container {
+    background-color: #fdebeb;
+    border: 1px solid #b00020;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 50px;
+  }
+  
+  /* On error container color */
+  .error-container-text {
+    color: #b00020;
+  }
